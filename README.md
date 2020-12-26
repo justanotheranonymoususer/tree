@@ -142,8 +142,8 @@ rc-tree is released under the MIT license.
 
 ## other tree view
 
-- [ztree](http://www.ztree.me/)
-- [jqTree](http://mbraak.github.io/jqTree/)
-- [jquery.treeselect](http://travistidwell.com/jquery.treeselect.js/)
-- [angular Select Tree](http://a5hik.github.io/angular-multi-select-tree/)
+- [zTree](http://www.treejs.cn/)
+- [jqTree](https://mbraak.github.io/jqTree/)
+- [jquery.treeselect](https://travistidwell.com/jquery.treeselect.js/)
+- [Angular Multi Select Tree](https://a5hik.github.io/angular-multi-select-tree/)
 
